@@ -4,7 +4,7 @@ function Header() {
   return (
     <div>
       <div className="flex flex-col md:flex-row items-center justify-between bg-blue-950 py-5 px-10">
-        <Image src="/logo.png" alt="logo" width={150} height={120} className="mx-auto md:mx-0" />
+        <Image src="/logo.png" alt="logo" width={200} height={120} className="mx-auto md:mx-0" />
         <nav className="mt-5 md:mt-0">
           <ul className="flex flex-wrap gap-6 md:gap-10 text-white text-center md:text-left">
             <li>Products</li>
